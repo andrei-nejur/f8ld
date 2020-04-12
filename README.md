@@ -8,6 +8,9 @@ f8ld is a simple personal mask that can be folded from a single sheet of paper a
 ## Size and printing
 You can print the pdf file print it either as a single sheet on an a3 printer or as as two a4/letter sheets.
 The size of the mask can be controlled by scaling the print. The pdf as provided is for a large size mask. 
+## Cut and fold
+Cut allong the thick lines and score the mountain and valley dashed lines. Prefold the paper before starting the assembly. 
+There is a legend in the pdf file. 
 ## Filter and fixation to the face
 The mask needs a filter that can be made from any filtering material. In the provided images a piece from a medical mask is used.
 You will also need to provide a string (preferably elastic) and tie is through the provided loopholes.
@@ -26,4 +29,4 @@ This is not a professional N95 or FFP2/3 mask and it should not be compared to t
 ![Fold Step 9](./foldSequencePhotos/009.jpg)
 ## Updates will follow 
 This read.md is still a work in progress. Changes and additions are to be expected. 
-
+## Feel free to fork and improve. 
