@@ -15,15 +15,15 @@ The mask (depending on the material used) can be reused with different filters. 
 ## This is not a professional mask!
 This is not a professional N95 or FFP2/3 mask and it should not be compared to those. This is a personal mask designed to be affordable and easy to make. The f8ld mask has not been tested in a serious testing environment and has been built using only my expertise and common sense. I am not providing any warranty for its use and I cannot be held liable if it doesn't protect you from a disease or from any air contaminant. It is your responsibility to fold it carefully and add proper filtration material. 
 ## Images of the folding sequence.
-![Fold Step 1](.foldSequencePhotos/001.jpg)
-![Fold Step 2](.foldSequencePhotos/002.jpg)
-![Fold Step 3](.foldSequencePhotos/003.jpg)
-![Fold Step 4](.foldSequencePhotos/004.jpg)
-![Fold Step 5](.foldSequencePhotos/005.jpg)
-![Fold Step 6](.foldSequencePhotos/006.jpg)
-![Fold Step 7](.foldSequencePhotos/007.jpg)
-![Fold Step 8](.foldSequencePhotos/008.jpg)
-![Fold Step 9](.foldSequencePhotos/009.jpg)
+![Fold Step 1](./foldSequencePhotos/001.jpg)
+![Fold Step 2](./foldSequencePhotos/002.jpg)
+![Fold Step 3](./foldSequencePhotos/003.jpg)
+![Fold Step 4](./foldSequencePhotos/004.jpg)
+![Fold Step 5](./foldSequencePhotos/005.jpg)
+![Fold Step 6](./foldSequencePhotos/006.jpg)
+![Fold Step 7](./foldSequencePhotos/007.jpg)
+![Fold Step 8](./foldSequencePhotos/008.jpg)
+![Fold Step 9](./foldSequencePhotos/009.jpg)
 ## Updates will follow 
 This read.md is still a work in progress. Changes and additions are to be expected. 
 
