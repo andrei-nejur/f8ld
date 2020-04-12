@@ -1,5 +1,5 @@
-# f8ld
-Origami filter mask. 
+# f8ld Origami filter mask. 
+A simple, cheap and easy to make personal mask with filter. 
 
 ![Fold Sequence](./fold.gif)
 
