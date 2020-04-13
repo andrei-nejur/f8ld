@@ -17,6 +17,8 @@ You will also need to provide a string (preferably elastic) and tie is through t
 The mask (depending on the material used) can be reused with different filters. Once folded it can be unfolded for the filter change.
 ## This is not a professional mask!
 This is not a professional N95 or FFP2/3 mask and it should not be compared to those. This is a personal mask designed to be affordable and easy to make. The f8ld mask has not been tested in a serious testing environment and has been built using only my expertise and common sense. I am not providing any warranty for its use and I cannot be held liable if it doesn't protect you from a disease or from any air contaminant. It is your responsibility to fold it carefully and add proper filtration material. 
+## You might need a nose clip.
+The material used is flexible. As a result the design will adapt to the features of your face to some extent. The problematic area is the nose area. This will likely require a nose-clip. This is not included in the design. 
 ## Images of the folding sequence.
 ![Fold Step 1](./foldSequencePhotos/001.jpg)
 ![Fold Step 2](./foldSequencePhotos/002.jpg)
