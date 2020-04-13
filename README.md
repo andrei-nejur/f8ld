@@ -6,11 +6,11 @@
 ## This is the repository for f8ld the origami filter mask.
 f8ld is a simple personal mask that can be folded from a single sheet of paper after a contour cut. It does not require glue. Fold is thought as a replacement for the simple medical mask and it features a filter. 
 ## Size and printing
-You can print the pdf file print it either as a single sheet on an a3 printer or as as two a4/letter sheets.
-The size of the mask can be controlled by scaling the print. The pdf as provided is for a large size mask. 
+You can print the pdf file on paper or any sheet material you can easily cut and fold. Print it either as a single sheet on an a3 page (like the included PDF template) or as two a4/letter sheets. In the latter case you will need to join the pieces with tape. 
+The size of the mask can be controlled by scaling the print. The pdf as provided is for a large size mask. You can test if the mask fits you by measuring the printed page against your face. The central octagon should reach from a bit above your nose tip (<1cm) to a bit below your chin tip.  
 ## Cut and fold
-Cut allong the thick lines and score the mountain and valley dashed lines. Prefold the paper before starting the assembly. 
-There is a legend in the pdf file. 
+Cut along the thick lines and score the mountain and valley dashed lines. Pre-fold the paper before starting the assembly. 
+The template folder has the cut template and the assembly instructions.
 ## Filter and fixation to the face
 The mask needs a filter that can be made from any filtering material. In the provided images a piece from a medical mask is used.
 You will also need to provide a string (preferably elastic) and tie is through the provided loopholes.
@@ -29,4 +29,4 @@ This is not a professional N95 or FFP2/3 mask and it should not be compared to t
 ![Fold Step 9](./foldSequencePhotos/009.jpg)
 ## Updates will follow 
 This read.md is still a work in progress. Changes and additions are to be expected. 
-## Feel free to fork and improve. 
+## Feel free to fork and improve.
