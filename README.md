@@ -2,8 +2,8 @@
 ## A simple, cheap and easy to make personal mask with filter. 
 
 ![Fold Sequence](./fold.gif)
-![Fabricated example1](./wearImages/wr1.jpg)
-![Fold Sequence](./wearImages/face0900.png | width = 300)
+![Fabricated example1](./wearImages/wr1.jpg | width=300)
+![Fold Sequence](./wearImages/face0900.png)
 ## This is the repository for f8ld the origami filter mask.
 f8ld is a simple personal mask that can be folded from a single sheet of paper after a contour cut. It does not require glue. Fold is thought as a replacement for the simple medical mask and it features a filter. 
 ## Size and printing
