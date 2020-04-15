@@ -4,7 +4,7 @@
 ![Fold Sequence](./fold.gif)
 
 
-![test image size](./wearImages/wr1.jpg)
+![test image size](./wearImages/wr1.jpg) <!-- .element height="33%" width="33%" -->
 
 ![Fold Sequence](./wearImages/face0900.png)
 ## This is the repository for f8ld the origami filter mask.
